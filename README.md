@@ -11,3 +11,4 @@ Images for hivetalk honey nostr badges
 - [patron](/images/patron-tb.png)
 - [legend](/images/legend-tb.png)
 
+- for geyser fund
